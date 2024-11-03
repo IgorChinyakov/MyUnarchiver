@@ -1,0 +1,3 @@
+/home/chinyakov/CLionProjects/Unarchiver/cmake-build-debug/CMakeFiles/Unarchiver.dir
+/home/chinyakov/CLionProjects/Unarchiver/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/chinyakov/CLionProjects/Unarchiver/cmake-build-debug/CMakeFiles/rebuild_cache.dir
